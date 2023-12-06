@@ -104,7 +104,7 @@
   <component name="RunManager" selected="应用程序.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.lldwb.test.Client" />
-      <module name="demo" />
+      <module name="netty-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.lldwb.test.*" />
@@ -117,7 +117,7 @@
     </configuration>
     <configuration name="DiscardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.lldwb.test.DiscardServer" />
-      <module name="demo" />
+      <module name="netty-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.lldwb.test.*" />
@@ -130,7 +130,7 @@
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.lldwb.test.Server" />
-      <module name="demo" />
+      <module name="netty-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.lldwb.test.*" />
